@@ -1,3 +1,7 @@
-#title {
-    align-self: center;
+.jumbotron {
+    background-color: rgb(31, 48, 83)
+}
+h1 {
+    color: white;
+    
 }
